@@ -1,0 +1,6 @@
+.vscode
+
+Pipfile.lock
+
+flask_blog/__pycache__/
+flask_blog/__init__.pyc
